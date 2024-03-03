@@ -1,4 +1,4 @@
-//@#$!@#$@!#$Progress### << ///Jan_2023..??>> @ @#$@%#!@%!Saving??@!#$@!#$@!#$!@#$@!#$
+// @#$!@#$@!#$Progress### << ///Mar_2024..??>> @ @#$@%#!@%!Saving??@!#$@!#$@!#$!@#$@!#$
 //!!!!! don't stay at one part for more than 1 weekds...!!!!
 //!!!!! proceed as you go through by commenting .. for furhter refirinement..
 //..//...//..//...//..//..//..//...//
@@ -44,6 +44,23 @@ namespace Myapplication
 
 
 /*_______________________ Sololearn Codecoach Challenges__________________ */
+
+
+
+/*______Codecoach Challenges 
+
+#file:///D:\cNG\Cs_wbk\beecrowd.cs
+		 
+#file:///D:\cNG\Cs_wbk\codeforces.cs
+		 
+#file:///D:\cNG\Cs_wbk\onlinejudge.cs
+		 
+#file:///D:\cNG\Cs_wbk\ProjectEuler.cs
+
+
+*/
+
+
 
 
 /* _____________________  C# Getting Started  
